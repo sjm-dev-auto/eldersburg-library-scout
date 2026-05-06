@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 # App Config
 st.set_page_config(page_title="Eldersburg Library Scout", page_icon="📚")
-st.title("📚 The "No-Bouncer" Library Scout")
+st.title("📚 The 'No-Bouncer' Library Scout")
 
 # We use the DuckDuckGo "Lite" version - it's text-only and bot-friendly
 DDG_LITE_URL = "https://duckduckgo.com/lite/"
